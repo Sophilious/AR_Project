@@ -1,6 +1,6 @@
 ## Ονοματεπώνυμο: Κυργιαφίνη Σοφία
 ## ΑΜ: ΤΧ2017072
-## My Character: Μαχητής aka The Warrior. Tragic backstory. my parents were killed by the lack of navigation. My life goal is to help and lead unfortunate lost souls
+## My Character: Μαχητής aka The Warrior. Tragic backstory. My parents were killed by the lack of navigation. My life goal is to help and lead unfortunate lost souls
 
 ## Παραδοτέο 1
 
