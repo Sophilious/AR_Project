@@ -105,3 +105,17 @@
 
 Όσο γινόντουσαν οι συντεύξεις, κρατούσα σημειώσει με τις απαντήσεις και τα στοιχεία των χρηστών τα οποία μετά στάλθηκαν στον Σοφό για την ολοκλήρωση της αξιολόγησης και Coding Schema.
 
+
+<h3>Στιγμιότυπα αξιολόγησης</h3>
+
+!![346132434_631958632281858_6551008515263987793_n](https://github.com/Sophilious/Campus_Navigation_System_C.N.S/assets/72597438/b79b0b43-8f6d-4606-a800-5d064662250d)
+
+![346132450_941572297092410_1318140683978264102_n](https://github.com/Sophilious/Campus_Navigation_System_C.N.S/assets/72597438/973cece7-68e2-4c00-a85a-3417027ce387)
+
+![IMG_20230517_142327](https://github.com/Sophilious/Campus_Navigation_System_C.N.S/assets/72597438/fb62411c-767d-4d4a-bbb3-ec04bc0bd375)
+
+[IMG_20230517_142457](https://github.com/Sophilious/Campus_Navigation_System_C.N.S/assets/72597438/17867a6a-4181-471c-9de5-e86b1017c29c)
+
+![IMG_20230517_143155](https://github.com/Sophilious/Campus_Navigation_System_C.N.S/assets/72597438/51ac0e2d-380c-4b87-9cb2-5e633cf8b977)
+
+
