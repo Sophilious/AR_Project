@@ -51,7 +51,8 @@
 
 <h3>Παράδειγμα Μαρκερ του κτήριου Τεχνών Ήχου και Εικόνας</h3>
     
-      ![m2](https://github.com/Sophilious/Campus_Navigation_System_C.N.S/assets/72597438/36608598-d356-4a39-b6d0-f515f46458d9)
+    ![m2](https://github.com/Sophilious/Campus_Navigation_System_C.N.S/assets/72597438/6cca5df4-cb32-43e0-9a75-e3908b7fb0df)
+
      
 
       
